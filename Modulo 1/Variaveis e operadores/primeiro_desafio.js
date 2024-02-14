@@ -1,1 +1,3 @@
-console.log('ola');
+const precoCombustivel = 5.79;
+
+
